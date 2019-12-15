@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cc7343b-ff38-4070-83e6-956f5ec56c82" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/origin/01_the_machine_learning_landscape.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/02_end_to_end_machine_learning_project.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/03_classification.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/04_training_linear_models.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/05_support_vector_machines.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/06_decision_trees.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/07_ensemble_learning_and_random_forests.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/08_dimensionality_reduction.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/09_up_and_running_with_tensorflow.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/10_introduction_to_artificial_neural_networks.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/11_deep_learning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/12_distributed_tensorflow.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/13_convolutional_neural_networks.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/14_recurrent_neural_networks.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/15_autoencoders.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/16_reinforcement_learning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/book_equations.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/environment.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/extra_autodiff.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/extra_capsnets-cn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/extra_capsnets.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/extra_gradient_descent_comparison.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/extra_tensorflow_reproducibility.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/future_encoders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/index.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/math_linear_algebra.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/ml-project-checklist.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/tensorflow_graph_in_jupyter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/tools_matplotlib.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/tools_numpy.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/tools_pandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="130" column="7" selection-start-line="130" selection-start-column="7" selection-end-line="130" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitattributes">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2400" />
+    <option name="y" value="23" />
+    <option name="width" value="960" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="study_handsome_ml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study_handsome_ml" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/origin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cc7343b-ff38-4070-83e6-956f5ec56c82" name="Default Changelist" comment="" />
+      <created>1576394875337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576394875337</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07582939" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.30673575" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="130" column="7" selection-start-line="130" selection-start-column="7" selection-end-line="130" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
